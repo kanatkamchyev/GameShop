@@ -1,0 +1,17 @@
+.header{
+    padding: 40px 0;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.header__left{
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.header__right{
+   color: white;
+}

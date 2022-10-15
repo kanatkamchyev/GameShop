@@ -1,0 +1,9 @@
+.cart-block__icon{
+    cursor: pointer;
+}
+
+.cart-block__total-price{
+    margin-left: 15px;
+}
+
+
