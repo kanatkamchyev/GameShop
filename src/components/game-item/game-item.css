@@ -24,6 +24,7 @@
 }
 
 .game-item__genres{
+    display: flex;
     margin-top: 10px;
     display: flex;
     flex-wrap: wrap;
